@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://uss-galatica-138742.my.salesforce.com/",
+  "sourceApiVersion": "43.0"
+}
